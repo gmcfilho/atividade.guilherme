@@ -127,5 +127,11 @@ Regras de Negócio Identificadas
 3. Pedido com pelo menos um produto: Um pedido só pode ser finalizado se tiver pelo menos um produto adicionado (tabela itens_pedido deve ter ao menos um registro associado).
 4. Cálculo automático do valor total: O sistema deve calcular e atualizar automaticamente o valor_total do pedido com base nos produtos e quantidades adicionados.
 5. Consulta por data: Deve ser possível listar todos os pedidos realizados em uma data específica.
-
+|
+|
+|
+|
+|
+|
+V
 #Eu identifiquei todas as regras de negocio e suas tabelas, tentei fazelas de um jeito mais apresentavel e coloquei de um jeito que pareça banco de dados.
